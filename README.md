@@ -1,1 +1,3 @@
-# assignment-1-web-dev-sem-2
+NAME-DHRUV SHARMA
+ROLL NO.-2501730373
+Smart Event Dashboard is a simple and interactive web-based application built using HTML, CSS, and JavaScript. It allows users to add, view, and manage events by entering details such as event title, date, category, and description through a user-friendly form. Users can also add sample events, delete individual events, or clear all events at once, demonstrating effective DOM manipulation and event handling. Additionally, the project includes a keyboard interaction feature that displays the pressed key in real time, showcasing dynamic DOM updates. Overall, this project is a great example for beginners to understand form handling, JavaScript events, and basic front-end development concepts.
